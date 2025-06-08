@@ -31,7 +31,7 @@ class Visualizer:
             y="Score",
             color="Passed",
             text="Feedback",
-            title="Bench AI Evaluation Results",
+            title="benchAI Evaluation Results",
             labels={"Score": "Score", "Prompt": "Prompt (truncated)"},
         )
 

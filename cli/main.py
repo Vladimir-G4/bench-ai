@@ -4,7 +4,7 @@ import argparse
 from benchai.suite import EvalSuite
 
 def main():
-    parser = argparse.ArgumentParser(description="Bench AI - LLM evaluation CLI")
+    parser = argparse.ArgumentParser(description="benchAI - LLM evaluation CLI")
     parser.add_argument(
         "test_file",
         help="Path to the test YAML or JSON file"
