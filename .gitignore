@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.vscode/
+.idea/
+.DS_Store
+*.log
+uploads/
+uploaded_*.*
+*.yaml
+*.json
+*.sqlite3
+benchai.egg-info/
+dist/
+build/
+.venv/

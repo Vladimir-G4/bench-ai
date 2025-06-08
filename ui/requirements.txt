@@ -1,0 +1,8 @@
+streamlit
+pyyaml
+plotly
+textblob
+rouge-score
+transformers
+openai
+llama-cpp-python
