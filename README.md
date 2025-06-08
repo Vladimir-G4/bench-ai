@@ -1,8 +1,8 @@
-# bench ai
+# benchAI
 
 **Benchmark any AI model. With one function.**
 
-Bench AI is a plug-and-play evaluation suite for LLM developers. Easily test your prompts across real-world use cases like Q&A, codegen, summarization, and more—no matter what model you use.
+benchAI is a plug-and-play evaluation suite for LLM developers. Easily test your prompts across real-world use cases like Q&A, codegen, summarization, and more—no matter what model you use.
 
 ---
 
